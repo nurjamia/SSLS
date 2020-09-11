@@ -2,3 +2,5 @@
 Socio-spatial Datasets Description 
 
 We provide the pre-processed social network and check-in information of the Gowalla, Brightkite, Flickr, and Yelp datasets used for SSLS problem. We have annonymized the user information in the datasets. 
+
+Please follow the link to access the datasets: http://dropbox.com
